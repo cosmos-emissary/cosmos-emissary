@@ -28,8 +28,4 @@
 <!-- Additional stats: Top repositories -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmos-emissary&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&border_color=ffffff" alt="cosmos-emissary" /></p>
 
-<!-- Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmos-emissary&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="cosmos-emissary" /></p>
 
-<!-- Wakatime stats (optional, if you use Wakatime) -->
-<p><img align="center" src="https://wakatime.com/share/@your_wakatime_id/your_wakatime_img.svg" alt="wakatime" /></p>
