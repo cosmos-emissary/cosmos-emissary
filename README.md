@@ -2,7 +2,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,vim,html,css,python)](https://skillicons.dev)<br/>
 
   <div style="display: inline-block; height: 100%;">
     <picture>
