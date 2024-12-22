@@ -23,3 +23,6 @@ I've been using linux for 2 years and I'm just another person who develops free 
 <a href="http://www.github.com/cosmos-emissary"><img src="https://github-readme-stats.vercel.app/api?username=cosmos-emissary&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cosmos-emissary's GitHub stats" /></a>
 
 <a href="https://github.com/cosmos-emissary" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmos-emissary&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<p align="center"><img src="https://profile-counter.glitch.me/{cosmos-emissary}/count.svg"/></p>
